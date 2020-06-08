@@ -107,7 +107,7 @@ const Points = () => {
           <Icon name="arrow-left" size={20} color="#34cb79" />
         </TouchableOpacity>
 
-        <Text style={styles.title}>Bem vindo.</Text>
+        <Text style={styles.title}>😃  Bem vindo.</Text>
         <Text style={styles.description}>Encontre no mapa um ponto de coleta.</Text>
 
         <View style={styles.mapContainer}>
@@ -178,6 +178,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontFamily: 'Ubuntu_700Bold',
     marginTop: 24,
+    marginBottom: 2,
   },
 
   description: {
