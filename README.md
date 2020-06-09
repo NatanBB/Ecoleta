@@ -4,13 +4,13 @@
 ![alt text](https://i.imgur.com/eE5dpEv.png)
 
 # Developed Using: </br>
-React </br>
-React-Native </br>
-Expo </br>
-TypeScript </br>
-Knex </br>
-Axios </br>
-Leaflet </br>
+* React
+* React-Native
+* Expo
+* TypeScript
+* Knex
+* Axios
+* Leaflet
 
 # Run Project:
 
